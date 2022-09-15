@@ -8,3 +8,7 @@ http://localhost:4200/?state=fj8o3n7bdy1op5
 &session_state=83a95321-a56b-49fa-bc1c-903427e5e595
 &code=893f02e8-3b34-4c15-afff-02472a278e40.83a95321-a56b-49fa-bc1c-903427e5e595.af12437a-29d0-4b58-a21f-8035aa79ecee
 
+
+##Angular command
+ng generate component components/<name>
+ng generate service services/<name>
